@@ -1,0 +1,13 @@
+C:\start v2\TipCalculator\bin\Debug\netstandard2.0\TipCalculator.deps.json
+C:\start v2\TipCalculator\bin\Debug\netstandard2.0\TipCalculator.dll
+C:\start v2\TipCalculator\bin\Debug\netstandard2.0\TipCalculator.pdb
+C:\start v2\TipCalculator\obj\Debug\netstandard2.0\TipCalculator.csproj.AssemblyReference.cache
+C:\start v2\TipCalculator\obj\Debug\netstandard2.0\TipCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\start v2\TipCalculator\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\start v2\TipCalculator\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\start v2\TipCalculator\obj\Debug\netstandard2.0\TipCalculator.AssemblyInfoInputs.cache
+C:\start v2\TipCalculator\obj\Debug\netstandard2.0\TipCalculator.AssemblyInfo.cs
+C:\start v2\TipCalculator\obj\Debug\netstandard2.0\TipCalculator.csproj.CoreCompileInputs.cache
+C:\start v2\TipCalculator\obj\Debug\netstandard2.0\XamlC.stamp
+C:\start v2\TipCalculator\obj\Debug\netstandard2.0\TipCalculator.dll
+C:\start v2\TipCalculator\obj\Debug\netstandard2.0\TipCalculator.pdb

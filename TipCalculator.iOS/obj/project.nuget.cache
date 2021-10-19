@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fmN8Ofz7fagqlgoWvm8b/xRZLvrV4CKQ9BIREeKoIj+eoiuVWD/dbzJKnE85IkZWX6pKW33SaTW9A9KYFQDLQw==",
+  "success": true,
+  "projectFilePath": "C:\\start v2\\TipCalculator.iOS\\TipCalculator.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ratul Ali\\.nuget\\packages\\xamarin.forms\\4.0.0.62955-pre2\\xamarin.forms.4.0.0.62955-pre2.nupkg.sha512",
+    "C:\\Users\\Ratul Ali\\.nuget\\packages\\xamarin.ios.materialcomponents\\60.1.0\\xamarin.ios.materialcomponents.60.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
